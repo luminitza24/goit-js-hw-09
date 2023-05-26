@@ -4,7 +4,7 @@
   "description": "This project was created with Parcel. For familiarization and setting additional features [refer to documentation](https://parceljs.org/).",
   "homepage": "https://github.com/luminitza24/goit-js-hw-09.git",
   "scripts": {
-    "start": "goit-js-hw-09 src/*.html",
+    "start": "parcel src/*.html",
     "build": "goit-js-hw-09 build src/*.html --public-url /https://github.com/luminitza24/goit-js-hw-09.git/"
   },
   "repository": {
