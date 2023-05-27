@@ -5,7 +5,7 @@
   "homepage": "https://github.com/luminitza24/goit-js-hw-09.git",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "goit-js-hw-09 build src/*.html --public-url /https://github.com/luminitza24/goit-js-hw-09.git/"
+    "build": "parcel build src/*.html --public-url /https://github.com/luminitza24/goit-js-hw-09.git/"
   },
   "repository": {
     "type": "git",
